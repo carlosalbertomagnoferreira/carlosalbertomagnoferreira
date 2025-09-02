@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [SEU_NOME]
+# 👋 Olá, eu sou Carlos
 
 💻 Profissional de **TI** com foco em **DevOps** e **Dados**, apaixonado por automação, pipelines e boas práticas de engenharia.  
 🚀 Experiência em provisionamento de infraestrutura, monitoramento e análise de dados para apoiar decisões estratégicas.  
@@ -7,7 +7,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-### 🔹 DevOps & Cloud  
+### 🔹 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
@@ -15,6 +15,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&style=flat)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&style=flat)
 
 ### 🔹 Dados & Analytics
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -24,22 +26,6 @@
 ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat) 
-
----
-
-## 📂 Projetos em Destaque
-
-🔹 [Pipeline de Dados com Airflow + AWS](https://github.com/carlosalbertomagnoferreira/projeto-airflow)  
-*Pipeline completo de ETL utilizando Apache Airflow, armazenando dados em S3 e processando com Spark.*  
-
-🔹 [Infraestrutura como Código com Terraform](https://github.com/carlosalbertomagnoferreira/projeto-terraform)  
-*Criação de infraestrutura em AWS com Terraform, automatizando redes, instâncias EC2 e banco de dados.*  
-
-🔹 [Dashboard de Monitoramento DevOps](https://github.com/carlosalbertomagnoferreira/dashboard-devops)  
-*Dashboard interativo no Grafana para monitorar métricas de containers e serviços em produção.*  
-
-🔹 [API de Dados em Python + FastAPI](https://github.com/carlosalbertomagnoferreira/api-dados)  
-*API RESTful para consulta de dados analíticos com autenticação JWT.*  
 
 ---
 
