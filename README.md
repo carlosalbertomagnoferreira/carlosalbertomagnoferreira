@@ -43,7 +43,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-magno-9668a547)
 - ✉️ [ferreiracarlosm@gmail.com](mailto:ferreiracarlosm@gmail.com)
-- 🌍 [Portfólio Online](https://carlosalbertomagnoferreira.github.io)
+- 🌍 [GitHub](https://github.com/carlosalbertomagnoferreira)
 
 ---
 
