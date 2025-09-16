@@ -29,6 +29,16 @@
 
 ---
 
+## 📂 Projetos em Destaque
+
+🔹 [Kubernetes com INGRESS NGINX](https://github.com/carlosalbertomagnoferreira/Kubernetes_Kind_NGINX_Ingress)  
+*Kubernetes com 3 aplicações usando INGRESS NGINX.*
+
+🔹 [API Python com FastAPI + PostgreSQL](https://github.com/carlosalbertomagnoferreira/api_python_crud_uv_project)  
+*API Python com FastAPI, PostgreSQL e Alembic.*
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
