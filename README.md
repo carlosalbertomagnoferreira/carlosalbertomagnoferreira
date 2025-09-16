@@ -37,15 +37,6 @@
 🔹 [API Python com FastAPI + PostgreSQL](https://github.com/carlosalbertomagnoferreira/api_python_crud_uv_project)  
 *API Python com FastAPI, PostgreSQL e Alembic.*
 
-🔹 [Infraestrutura como Código com Terraform](https://github.com/carlosalbertomagnoferreira/projeto-terraform)  
-*Criação de infraestrutura em AWS com Terraform, automatizando redes, instâncias EC2 e banco de dados.*  
-
-🔹 [Dashboard de Monitoramento DevOps](https://github.com/carlosalbertomagnoferreira/dashboard-devops)  
-*Dashboard interativo no Grafana para monitorar métricas de containers e serviços em produção.*  
-
-🔹 [API de Dados em Python + FastAPI](https://github.com/carlosalbertomagnoferreira/api-dados)  
-*API RESTful para consulta de dados analíticos com autenticação JWT.*  
-
 ---
 
 ## 📊 Estatísticas do GitHub
