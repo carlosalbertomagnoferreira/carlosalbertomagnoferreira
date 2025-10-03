@@ -37,6 +37,9 @@
 🔹 [API Python com FastAPI + PostgreSQL](https://github.com/carlosalbertomagnoferreira/api_python_crud_uv_project)  
 *API Python com FastAPI, PostgreSQL e Alembic.*
 
+🔹 [CI-CD Github Actions com Docker - Terraform - AWS ECS](https://github.com/carlosalbertomagnoferreira/teste-tecnico_analista-devops)  
+*Containerizando aplicação, build-push imagem docker, deploy AWS ECS com Terraform.*
+
 ---
 
 ## 📊 Estatísticas do GitHub
