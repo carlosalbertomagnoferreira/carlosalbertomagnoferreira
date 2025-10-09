@@ -41,7 +41,7 @@
 *Containerizando aplicação, build-push imagem docker, deploy AWS ECS com Terraform.*
 
 🔹 [Desafio da LINUXtips Descomplicando GitHub Actions](https://github.com/carlosalbertomagnoferreira/LINUXtips-github-actions/tree/main)  
-*CI-Github Actions, testes automatizados, link dockerfile, build, teste, scan, push.*
+*CI-Github Actions, testes automatizados, lint dockerfile, build, teste, scan, push.*
 
 
 ---
